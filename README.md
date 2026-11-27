@@ -203,6 +203,7 @@
 - [LetCode](https://letcode.in/test) — Página com dezenas de componentes web (dropdowns, sliders, tabelas) para testar diferentes estratégias de localização.
 - [Automation Test Store](https://automationteststore.com/) — Loja virtual completa para simular fluxos reais de compra em um projeto de automação.
 - [DemoBlaze](https://www.demoblaze.com/) — Outra loja fictícia simples, muito usada em cursos e desafios de automação.
+- [GoodDeal](https://delta-qa.com/playground/) — Loja fictícia de roupas esportivas, gratuita e sem cadastro, para praticar fluxos de e-commerce com Selenium: tamanho obrigatório, cupom, checkout com cartões de teste e lista de países sem select nativo.
 - [ParaBank](https://parabank.parasoft.com/) — Aplicação bancária fictícia da Parasoft, boa para praticar fluxos mais complexos e com estado.
 - [PageObjectModel (naveenanimation20)](https://github.com/naveenanimation20/PageObjectModel) — Projeto de referência open source mostrando um framework Selenium + Java + TestNG organizado com Page Object Model.
 
